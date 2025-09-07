@@ -39,20 +39,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-Here are some of the things I’ve been building:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Portfolio Website** | Personal portfolio showcasing projects & blogs | Next.js, TailwindCSS |
-| **Task Manager App** | A full-stack app for managing tasks with authentication | React, NestJS, MongoDB |
-| **CLI Utility** | Custom terminal tool for automating workflows | Rust, Node.js |
-
-👉 Check out more in my [repositories](https://github.com/your-username?tab=repositories).
-
----
-
 ## 🧭 Currently Exploring
 
 - **Full-stack development** with Next.js + NestJS  
