@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey</h1>
+<h1 align="center">👋 Hey, I'm Elias</h1>
 
 <p align="center">
   I’m a an apprentice who loves exploring the world of code.  
