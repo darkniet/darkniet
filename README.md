@@ -51,8 +51,7 @@
 
 ## 📜 Philosophy
 
-> "Code is more than syntax — it’s creativity, collaboration, and problem-solving.  
-> I aim to build tools that empower people and bring ideas to life."  
+> "An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple… if you make something so clusterfucked he can’t understand it, he’s gonna think you’re a god…"
 
 ---
 
