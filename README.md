@@ -1,58 +1,58 @@
-<h1 align="center">👋 Hey, I'm Elias</h1>
+# Hey there, I'm Elias 👋
+
+**Apprentice developer** building things that matter. Currently deep in the React/Next.js ecosystem while getting my hands dirty with backend tech and databases. I believe in learning by doing – every project teaches me something new.
+
+Mac devotee through and through. Clean code enthusiast. Problem solver by nature.
+
+---
+
+## What I'm doing right Now!
+**Work:**
+NextJS • NestJS • MariaDB • DrizzleORM...
+**Private:**
+Rust • Python(n8n...)
+---
+
+## Tech Arsenal
 
 <p align="center">
-  I’m a an apprentice who loves exploring the world of code.  
-  Right now, I’m sharpening my skills in <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b> while also experimenting with backend tools and databases.  
-  I enjoy solving problems, learning by building, and pushing myself one project at a time.  
-  Proud <b>Mac user</b> who values clean workflows and continuous learning.
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## Currently Obsessed With
 
-- **Frontend** → Responsive, modern UIs with **React**, **Next.js**, and **TypeScript**  
-- **Backend** → Exploring **NestJS**, **Java**, and databases (**MySQL**, **MariaDB**, **MongoDB**)  
-- **Other Skills** → Tinkering with **C++**, **Rust**, and some **DevOps** know-how  
-- **CLI Wizardry** → Comfortable in **Mac**, **Linux**, and **Windows** environments  
-- **Soft Skills** → Team player, communicator, and problem-solver  
+**Rust adventures** → Systems programming that doesn't make me cry  
+**DevOps rabbit holes** → Making deployments less painful  
+**AI experiments** → Python, TensorFlow, and building things that think  
 
 ---
 
-## 🛠️ Tech Stack
+## Philosophie
+
+*"An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple... if you make something so clusterfucked he can't understand it, he's gonna think you're a god..."*
+
+Simple code wins. Every time.
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
+  <i>Always open to connecting with fellow developers and interesting projects</i>
 </p>
-
----
-
-## 🧭 Currently Exploring
-
-- **Full-stack development** with Next.js + NestJS  
-- **System-level programming** with Rust  
-- **Cloud & DevOps tools** for deployments and scaling  
-- **Machine Learning & AI** → experimenting with Python, TensorFlow, and small ML models for fun projects  
-- **Data Visualization** → turning raw data into clear and interactive dashboards  
-
----
-
-## 📜 Philosophy
-
-> "An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple… if you make something so clusterfucked he can’t understand it, he’s gonna think you’re a god…"
-
----
-
-<p align="center">⭐ If you like what you see, drop a star on my repos — let’s build something awesome together!</p>
