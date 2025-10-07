@@ -57,7 +57,8 @@ Rust • Python • n8n automation
 
 ## 💭 Philosophy
 
-> *"An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple... if you make something so clusterfucked he can't understand it, he's gonna think you're a god..."*
+> *"An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple... if you make something so clusterfucked he can't understand it, he's gonna think you're a god...
+>Terry Davis"*
 
 **Simple code wins. Every time.**
 
