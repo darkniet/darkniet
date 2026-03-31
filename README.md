@@ -1,20 +1,22 @@
 # Hey, I'm Elias
-Apprentice developer building things with React/Next.js, backend tech, and databases. I believe in learning by doing.
+Apprentice developer building things with React/Next.js, backend tech, and databases.
+Learning by doing — always.
 <p align="center">
   <a href="https://portfolio-prod-wine.vercel.app">
-    <img src="https://img.shields.io/badge/-portfolio--prod--wine.vercel.app-000000?style=for-the-badge&label=My+Website&color=0A0A0A" />
+    <img src="https://img.shields.io/badge/-My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
----
-## Right Now
-**Work** — Next.js, NestJS, MariaDB, Drizzle ORM
-**Side Projects** — Rust, Python, n8n automation
-## Tech
+
+### Right Now
+- **Work** — Next.js · NestJS · MariaDB
+- **Side Projects** — Rust · Lua (mods)
+
+### Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
