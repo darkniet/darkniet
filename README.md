@@ -2,8 +2,8 @@
 Apprentice developer building things with React/Next.js, backend tech, and databases.
 Learning by doing — always.
 <p align="center">
-  <a href="https://portfolio-prod-wine.vercel.app">
-    <img src="https://img.shields.io/badge/-My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://eliasruhnau.dev">
+    My Website
   </a>
 </p>
 
