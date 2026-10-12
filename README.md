@@ -28,9 +28,10 @@ hobbies    Gaming, Anime, MTG (Magic: The Gathering)
 
 ```console
 dark@niet:~/readme $ ls stack/
-```
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,nextjs,rust,java,neovim,git,aws,docker,mongodb&perline=13&theme=dark" alt="languages and tools" /></a>
+angular  docker  java        mongodb  nextjs  react  typescript
+aws      git     javascript  neovim   nodejs  rust
+```
 
 <br>
 
@@ -51,6 +52,9 @@ dark@niet:~/readme $ cat contact.txt
 <br>
 
 ```console
-dark@niet:~/readme $ echo "Thanks for reading <3"
-Thanks for reading <3
+dark@niet:~/readme $ echo "Thanks for reading <3" | glow
+
+  Thanks for reading <3
+
+dark@niet: ~/readme $ exit
 ```
