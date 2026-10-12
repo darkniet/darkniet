@@ -46,7 +46,7 @@ dark@niet:~/readme $ gh stats --user darkniet
 dark@niet:~/readme $ cat contact.txt
 ```
 
-<a href="https://eliasruhnau.dev"><img src="https://img.shields.io/badge/github-darkniet-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7&labelColor=24283b" alt="GitHub" /></a>
+<a href="https://eliasruhnau.dev"><img src="https://img.shields.io/badge/portfolio-darkniet-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7&labelColor=24283b" alt="Portfolio" /></a>
 
 <br>
 
